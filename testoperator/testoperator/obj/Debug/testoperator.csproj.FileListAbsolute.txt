@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\bin\Debug\testoperator.exe.config
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\bin\Debug\testoperator.exe
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\bin\Debug\testoperator.pdb
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.frmstudent.resources
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.frmain.resources
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.frmassignmentoperator.resources
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.exe
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.pdb
+\\vmware-host\Shared Folders\Desktop\Lecturer\Phnom Penh International University\C#\slide\chapter 2\source code\testoperator\testoperator\obj\Debug\testoperator.csprojAssemblyReference.cache
